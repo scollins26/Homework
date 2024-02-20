@@ -11,7 +11,7 @@ permalink: /HW2>
 
 This is a paragraph
 
-** This will be bold ** ~~ This will be strikethrough ~~ ** This will be underlined **
+**This will be bold** ~~This will be strikethrough~~ **This will be underlined**
 
 ## Lists
 
